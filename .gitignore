@@ -1,0 +1,12 @@
+
+cloud-example/cloud-example/.idea/libraries/
+
+cloud-example/cloud-example/.idea/
+
+cloud-example/cloud-example/angular-client/
+
+cloud-example/cloud-example/eureka-feign-client/
+
+*.iml
+
+cloud-example/cloud-example/HELP.md
